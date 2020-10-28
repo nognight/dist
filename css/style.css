@@ -1246,6 +1246,17 @@ Service Section
     background-color: #6399e9;
 }
 
+.milestones-section-white {
+    padding-top: 120px;
+    padding-bottom: 30px;
+    background-color: #fff;
+}
+
+.milestones-section-white .milestone-text span {
+    color: #6399e9;
+    background-color: #fff;
+}
+
 .milestones-section .milestone-text span {
     color: #fff;
     background-color: #6399e9;
@@ -1288,6 +1299,14 @@ Service Section
     line-height: 0.9;
     margin-bottom: 5px;
     color: #fff;
+    width: 250px;
+}
+.milestone-text-blue h2{
+    font-size: 55px;
+    font-weight: 300;
+    line-height: 0.9;
+    margin-bottom: 5px;
+    color: #6399e9;
     width: 250px;
 }
 
